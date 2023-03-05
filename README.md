@@ -1,3 +1,5 @@
+PT-BR (Português-Brasil)
+
 # Requeriments 
 
 - AMXMODX 1.8.3
